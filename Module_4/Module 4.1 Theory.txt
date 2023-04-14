@@ -1,0 +1,56 @@
+           module 4.1
+
+1 - What is oop concept? list of oop concept
+ OOP stands for Object-Oriented Programming, which is a programming paradigm that emphasizes the use of objects to represent and manipulate data. In OOP, a program is designed as a collection of objects that interact with each other to accomplish tasks.
+
+Classes & Objects
+Abstraction
+Encapsulation
+Inheritance
+Polymorphism
+
+ Object
+An Object can be defined as an entity that has a state and behavior, or in other words, anything that exists physically in the world is called an object. It can represent a dog, a person, a table, etc.
+
+An object means the combination of data and programs, which further represent an entity.
+
+ Classes
+Class can be defined as a blueprint of the object. It is basically a collection of objects which act as building blocks. 
+A class contains data members (variables) and member functions. These member functions are used to manipulate the data members inside the class.
+
+ Abstraction
+Abstraction helps in the data hiding process. It helps in displaying the essential features without showing the details or the functionality to the user. It avoids unnecessary information or irrelevant details and shows only that specific part which the user wants to see.
+
+ Encapsulation
+The wrapping up of data and functions together in a single unit is known as encapsulation. It can be achieved by making the data members' scope private and the member function’s scope public to access these data members. Encapsulation makes the data non-accessible to the outside world.
+
+ Inheritance
+Inheritance is the process in which two classes have an is-a relationship among each other and objects of one class acquire properties and features of the other class. The class which inherits the features is known as the child class, and the class whose features it inherited is called the parent class. 
+type of inheritance
+single level
+multi level
+multiple
+hiranchical
+hybrid
+
+ Polimorphism
+Ability to take one name having diffrent form
+type of polymorphism
+over loading 
+over riding
+
+What is diffrence between OOP and POP ?
+oop
+Object oriented
+Program is divided into objects
+inheritance properly is used
+it uses access specifier.
+concept of virtual function.
+
+POP
+Structure oriented
+program is divided into function.
+inheritance is not allowed.
+it doesn't use access specifier.
+No virtual function.
+
